@@ -1,0 +1,34 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	
+	background: #000000;
+	color: white;
+}
+
+html, body, canvas {
+	touch-action: none;
+	touch-action-delay: none;
+}
+
+@font-face {
+	font-family: 'Super Plumber Brothers';
+	src: url('fonts/super plumber brothers.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Super Mario Bros 1';
+	src: url('fonts/super mario bros 1.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'logo';
+	src: url('fonts/logo.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Super Mario Bros 1 version 2';
+	src: url('fonts/super mario bros 1 version 2.otf') format('opentype');
+}
+
